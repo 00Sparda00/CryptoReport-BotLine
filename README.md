@@ -25,7 +25,15 @@ Example
 
 
 
-- typing in line bot "@list" for list support
+- typing in line bot "@list" for list support 
 
 ![image](https://user-images.githubusercontent.com/96755123/228794066-80d26822-77da-446b-b1a7-e0c255e3d2a1.png)
+
+
+
+- click icon coin
+
+![image](https://user-images.githubusercontent.com/96755123/228795433-ee607010-de42-426c-a493-f4376b02e52a.png)
+![image](https://user-images.githubusercontent.com/96755123/228795577-aece131c-885b-4ac2-a0d5-c41b6fb0ad23.png)
+
 
