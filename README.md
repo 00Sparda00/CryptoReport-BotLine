@@ -26,6 +26,6 @@ Example
 
 
 - typing in line bot "@list" for list support
-- 
+
 ![image](https://user-images.githubusercontent.com/96755123/228794066-80d26822-77da-446b-b1a7-e0c255e3d2a1.png)
 
