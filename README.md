@@ -22,3 +22,10 @@ Example
 - typing in line bot "#*Coincode***Amountcoin*"  for calculate money baht
 
 ![image](https://user-images.githubusercontent.com/96755123/228790793-767682cb-8cae-4ebc-b7ce-1b6091420480.png)
+
+
+
+- typing in line bot "@list" for list support
+- 
+![image](https://user-images.githubusercontent.com/96755123/228794066-80d26822-77da-446b-b1a7-e0c255e3d2a1.png)
+
